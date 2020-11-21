@@ -3,7 +3,7 @@
 <head>
 <title>Benign Castle of Nathria</title>
 </head>
-<body>
+<body style="background-color:#424040;">
 
 <h1>Shriekwing</h1>
 <p>Shriekwing Phase 1</p>
