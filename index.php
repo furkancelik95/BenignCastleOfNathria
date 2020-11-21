@@ -6,9 +6,9 @@
 <body style="background-color:#424040;">
 
 <h1>Shriekwing</h1>
-<p>Shriekwing Phase 1</p>
+<p style="color:#FFFFFF;">Shriekwing Phase 1</p>
 <video autoplay loop muted playsinline src="Shriekwing P1.mp4"></video>
-<p>Shriekwing Phase 2</p>
+<p style="color:#FFFFFF;">Shriekwing Phase 2</p>
 <video autoplay loop muted playsinline src="Shriekwing P2.mp4"></video>
 
 <h1>Altimor</h1>
